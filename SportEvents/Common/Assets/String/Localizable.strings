@@ -1,0 +1,27 @@
+/* 
+  Default.strings
+  SportEvents
+
+  Created by Cristian Tovar on 2/3/18.
+  Copyright © 2018 Cristian Tovar. All rights reserved.
+*/
+
+"SPORTS_EVENTS" = "Sports Events";
+"TODAY" = "Today";
+"TOMORROW" = "Tomorrow";
+"STARTS_AT" = "Starts At";
+"ENDS_AT" = "Ends At";
+"LOCATION" = "Location";
+"PARTICIPANTS" = "Participants";
+"CANCEL" = "Cancel";
+"ACEPT" = "Acept";
+"ADD_EVENT" = "Add Event";
+"EVENT_NAME" = "Event Name";
+"INITIAL_DATE" = "Initial Date";
+"END_DATE" = "End Date";
+"FORUM" = "Forum";
+"LOCATION" = "Location";
+"PUBLIC" = "Public";
+"DATE_FORMATTER_ERROR" = "Sorry the format date that you are using is wrong";
+"OLD_DATE_ERROR" = "Sorry the spicified start or end date is old, please introduce one in the future";
+"MISSING_ARGUMENTS_ERROR" = "Sorry title, description and start date fields can't be empty";
