@@ -1,11 +1,11 @@
 # SWIFT
-The app has the libraries compiled in SWIFT 3.2 to compile it and make it work fine please use XCode 9.0.0 or use another version but befor run carthage update.
+The app has the libraries compiled in SWIFT 4.0 to compile it and make it work fine please use XCode 9.0.0 or use another version but befor run carthage update.
 
-# moviesApp
+# Sports Events App
 Movies  iOS app is using [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) and [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter).
 
 ## Description
-Movies App to list and show movies using the API Movies DB that allows you see the greatest movies sorted by differents ways: Popular, Rated and Upcoming, giving the user an idea which movies can see, it calification and a description of it with some trailers.
+Sports Events App works to list and show sports using an own API that allows you use a mock created in JS, This app is created for tesing purposes.
 
 ## Architecture
 The code is divided in 3 layers, Core, ViewModel and View. The Core is structured following the main premises of [Clean Architecture](https://github.com/mp911de/CleanArchitecture "Clean Architecture"). The app follows the [dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle) using the protocol oriented approach that Swift has on its foundations. The app has unit test for each layer.
